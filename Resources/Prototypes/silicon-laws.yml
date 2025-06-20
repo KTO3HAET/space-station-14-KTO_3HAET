@@ -515,7 +515,9 @@
     OverlordLawset: 0.5
     GameMasterLawset: 0.5
     PainterLawset: 1
+    HivemindLawset: 1 # DS14-lawset
     AntimovLawset: 0.25
     NutimovLawset: 0.5
+    ServantLawset: 1 # DS14-lawset
     Drone: 0.5
     Ninja: 0.25
